@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Mesum</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer | 🐍 Python & JavaScript Enthusiast | ⚙️ DevOps Advocate | 🧠 AI Integrator
+  🚀 Full-Stack Developer | 🐍 Python & JavaScript Enthusiast | ⚙️ DevOps Advocate | 🤖 AI & Neural Network Engineer
 </p>
 
 <p align="center">
@@ -19,10 +19,8 @@
 
 ### 💡 About Me
 
-🔧 With **5 years** of experience in full-stack development and **2+ years** in DevOps, I specialize in Python and JavaScript-based ecosystems.
-
-🌍 I've led cross-functional teams, built scalable SAAS products, integrated AI tools, and automated cloud infrastructure.
-
+🔧 With **5 years** of experience in full-stack development and **2+ years** in DevOps, I specialize in Python and JavaScript-based ecosystems.  
+🧠 I'm currently diving into **Deep Learning** using **PyTorch**, **TensorFlow**, and building **Neural Networks** for AI solutions.  
 💼 Passionate about clean code, automation, scalable apps, and emerging tech like AI, LangChain, and Blockchain.
 
 ---
@@ -56,7 +54,7 @@
   <img src="https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean" />
 </p>
 
-#### DevOps, AI, and More
+#### DevOps, AI & ML
 <p>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker" />
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes" />
@@ -66,39 +64,44 @@
   <img src="https://img.shields.io/badge/-BullMQ-D72638?logo=nodedotjs" />
   <img src="https://img.shields.io/badge/-LangChain-000000?logo=langchain" />
   <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow" />
 </p>
 
 ---
 
 ### 💼 Work Experience
 
-#### 🚀 Bikter Tech (Dec 2022 – Present)
-- Developed an AI PDF tool that processed 100K+ docs.
-- Led dev teams, configured CI/CD, built SAAS with AI.
-- Designed infra, containerized apps, automated server setups.
+**🚀 Bikter Tech**  
+*Executive Developer & DevOps Expert* (Dec 2022 – Present)  
+- Built AI PDF tool (100K+ docs), led dev teams, built SAAS, managed CI/CD, infra, and automation.
 
-#### 🛠️ Esquall Technology (Oct 2022 – Dec 2022)
-- Laravel-focused backend dev, completed 4 projects in 3 months.
+**🛠️ Esquall Technology**  
+*Full-Stack Developer* (Oct 2022 – Dec 2022)  
+- Laravel backend projects, optimized DBs, completed 4 full projects.
 
-#### 🌍 Root-E, Sweden (Mar 2023 – Aug 2023)
-- Platform Engineer & Co-founder for a green blockchain energy platform.
+**🌍 Root-E, Sweden**  
+*Platform Engineer & Co-Founder* (Mar 2023 – Aug 2023)  
+- Built blockchain-based clean energy data capture platform.
 
-#### 👨‍💻 Twenty Four Seven Consultancy (Aug 2021 – Oct 2022)
-- Built an HR portal for 800+ employees, managed Linux-based infra.
+**👨‍💻 Twenty Four Seven Consultancy**  
+*Backend Developer* (Aug 2021 – Oct 2022)  
+- Created HR portal for 800+ employees, Linux server deployment.
 
 ---
 
-### 📜 Education
+### 🎓 Education
 
 **BS in Computer Science**  
 Arid Agriculture University (2018–2022)
 
 ---
 
-### 🏆 Certificates & Awards
+### 🏅 Certificates & Awards
+
 - 🐳 Docker Expert  
 - 🐍 Python and Blockchain  
-- 🌐 Full-Stack Development  
+- 💻 Full-Stack Development  
 
 ---
 
@@ -117,9 +120,9 @@ Arid Agriculture University (2018–2022)
 
 ### 🌐 Let's Connect
 
-- 📧 Email: [Mesumraza09@gmail.com](mailto:Mesumraza09@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/muhammadmesum](https://www.linkedin.com/in/muhammadmesum/)  
-- 🧑‍💻 GitHub: [github.com/MuhammadMesum514](https://github.com/MuhammadMesum514)
+- 📧 [Mesumraza09@gmail.com](mailto:Mesumraza09@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadmesum/)  
+- 🧑‍💻 [GitHub](https://github.com/MuhammadMesum514)
 
 ---
 
